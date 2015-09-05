@@ -17,8 +17,8 @@
     margin-bottom: 0;
     float: left;
 
-    &,
-    &:visited {
+    a,
+    a:visited {
         color: $grey-color-dark;
     }
 }
@@ -184,7 +184,6 @@
 }
 
 .post-link {
-    display: block;
     font-size: 24px;
 }
 
