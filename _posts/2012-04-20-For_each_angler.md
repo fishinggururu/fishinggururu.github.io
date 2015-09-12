@@ -4,6 +4,7 @@ title: "For each angler"
 date: 2012-04-20 02:07:27
 tags:
   - invitation to blog
+redirect_from: "/blog/Ribalka_dlia_vseh/34.html"
 ---
 No metter what language you speak. Everyone invited to write his own
 post in my blog.
