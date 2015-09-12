@@ -12,4 +12,3 @@ If you like fishing or hiking over the rivers, let's write here your
 story!
 
 ![](http://fishingguru.ru/uploads/images/00/00/01/2012/04/19/ce9f1d.jpg)
-
