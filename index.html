@@ -10,6 +10,7 @@ layout: default
       </h2>
 
       <span class="post-meta">
+        {% include category.html category=post.category %}
         {% include date.html date=post.date %}
       </span>
     </li>
