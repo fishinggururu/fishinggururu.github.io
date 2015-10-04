@@ -12,6 +12,6 @@ layout: default
     {{ content }}
   </article>
 
-</div>
+  {% include comments.html id=page.id %}
 
-{% include comments.html id=page.id %}
+</div>
