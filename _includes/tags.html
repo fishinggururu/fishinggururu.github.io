@@ -1,6 +1,8 @@
-<span class="post-tags">
-  <i class="icon-tags"></i>
-  {% for tag in include.tags %}
-    <a href="/tag/{{ tag | uri_escape }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-  {% endfor %}
-</span>
+{% if include.tags.size > 0 %}
+  <span class="post-tags">
+    <i class="icon-tags"></i>
+    {% for tag in include.tags %}
+      <a href="/tag/{{ tag | replace:' ','_' | uri_escape }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </span>
+{% endif %}
