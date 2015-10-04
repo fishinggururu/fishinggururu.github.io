@@ -1,7 +1,7 @@
 <div id="disqus_thread"></div>
 <script>
   var disqus_shortname = 'fishingguru';
-  var disqus_identifier = '{{ include.url }}';
+  var disqus_identifier = '{% if include.disqus_identifier %}{{ include.disqus_identifier }}{% else %}{{ include.url }}{% endif %}';
 
   (function() {
     var dsq = document.createElement('script'); dsq.async = true;
