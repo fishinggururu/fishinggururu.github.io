@@ -188,7 +188,7 @@
   font-size: $small-font-size;
   color: $grey-color;
 
-  .post-date {
+  .post-date, .post-comments-count {
     margin-left: $spacing-unit / 2;
   }
 }
