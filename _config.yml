@@ -1,5 +1,5 @@
 # Site settings
-title: Fishing Guru
+title: Fishing <span class="green">Guru</span>
 email: admin@fishingguru.ru
 author: Сергей Сажин
 description: > # this means to ignore newlines until "baseurl:"
