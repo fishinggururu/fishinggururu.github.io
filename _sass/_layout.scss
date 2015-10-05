@@ -188,10 +188,6 @@
   font-size: $small-font-size;
   color: $grey-color;
 
-  .post-category, .post-date, .post-tags {
-    white-space: nowrap;
-  }
-
   .post-category, .post-date {
     margin-right: $spacing-unit / 2;
   }
