@@ -6,8 +6,8 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      {% include category.html category=page.category %}
       {% include date.html date=page.date %}
+      {% include category.html category=page.category %}
       {% include tags.html tags=page.tags %}
     </p>
   </header>
