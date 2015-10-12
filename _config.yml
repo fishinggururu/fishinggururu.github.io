@@ -9,7 +9,9 @@ vk: "https://vk.com/fishingguru"
 
 # Build settings
 permalink: /:categories/:title/
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: []
 sass:
   style: compressed
 gems:
