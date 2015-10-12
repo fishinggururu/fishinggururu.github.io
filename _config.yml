@@ -3,7 +3,6 @@ author: Сергей Сажин
 email: admin@fishingguru.ru
 title: Fishing <span class="green">Guru</span>
 description: Блог о рыбалке и отдыхе на реке
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fishingguru.ru" # the base hostname & protocol for your site
 youtube: "https://www.youtube.com/channel/UCQwcITuV0kUJm24WV9tcl-g"
 vk: "https://vk.com/fishingguru"
