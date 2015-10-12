@@ -1,19 +1,25 @@
 # Site settings
 author: Сергей Сажин
+url: https://fishingguru.ru
 email: admin@fishingguru.ru
+
 title: Fishing <span class="green">Guru</span>
 description: Блог о рыбалке и отдыхе на реке
-url: "https://fishingguru.ru" # the base hostname & protocol for your site
-youtube: "https://www.youtube.com/channel/UCQwcITuV0kUJm24WV9tcl-g"
-vk: "https://vk.com/fishingguru"
+
+youtube: https://www.youtube.com/channel/UCQwcITuV0kUJm24WV9tcl-g
+vk: https://vk.com/fishingguru
 
 # Build settings
 permalink: /:categories/:title/
+
 markdown: redcarpet
+
 redcarpet:
   extensions: []
+
 sass:
   style: compressed
+
 gems:
   - jekyll-feed
   - jekyll-redirect-from
