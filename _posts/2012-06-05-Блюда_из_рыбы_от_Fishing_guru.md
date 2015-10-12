@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Блюда из рыбы от Fishing guru"
+title: Блюда из рыбы от Fishing guru
 date: 2012-06-05 12:44:36
 category: Рыбалка для всех
 tags:
   - щука
   - окунь
   - сиг
-redirect_from: "/blog/Ribalka_dlia_vseh/92.html"
+redirect_from: /blog/Ribalka_dlia_vseh/92.html
 ---
 В основном мы едим рыбу жареной, и всегда хорошо прожаренной. Как
 говорилось раньше, в мясе рыбы могут быть личинки паразитов,
