@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% if page.type == 'category' %}
+  {% assign category = page.title | replace:'_',' ' %}
+  {% assign posts = site.categories[category] %}
+  <h1 class="page-heading icon-category">{{ category }}</h1>
+{% elsif page.type == 'tag' %}
+  {% assign tag = page.title | replace:'_',' ' %}
+  {% assign posts = site.tags[tag] %}
+  <h1 class="page-heading icon-tag">{{ tag }}</h1>
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="post-list">
+  {% for post in posts %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+
+      <span class="post-meta">
+        {% include date.html date=post.date %}
+        {% unless page.type == 'category' %}
+          {% include category.html category=post.category %}
+        {% endunless %}
+      </span>
+    </li>
+  {% endfor %}
+</ul>
