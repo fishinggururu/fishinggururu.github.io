@@ -2,7 +2,7 @@
 layout: post
 title: "Блюда из рыбы от Fishing guru"
 date: 2012-06-05 12:44:36
-category: "Рыбалка_для_всех"
+category: Рыбалка для всех
 tags:
   - щука
   - окунь

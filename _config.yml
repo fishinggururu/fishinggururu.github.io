@@ -12,6 +12,17 @@ vk: https://vk.com/fishingguru
 # Build settings
 permalink: /:categories/:title/
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /:name/
+    tag: /tag/:name/
+
 markdown: redcarpet
 
 redcarpet:
@@ -21,6 +32,7 @@ sass:
   style: compressed
 
 gems:
+  - jekyll-archives
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap

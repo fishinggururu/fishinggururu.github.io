@@ -1,7 +1,7 @@
 {% if include.tags.size > 0 %}
   <span class="post-tags icon-tags">
     {% for tag in include.tags %}
-      <a href="/tag/{{ tag | replace:' ','_' | uri_escape }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+      <a href="/tag/{{ tag | slugify | uri_escape }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
   </span>
 {% endif %}
