@@ -5,9 +5,11 @@
 {% if page.url == '/index.html' %}
   <title>{{ site.title | strip_html }}</title>
   <meta name="description" content="{{ site.description | strip_newlines }}">
-{% elsif page.description %}
+{% else %}
   <title>{{ page.title }}</title>
-  <meta name="description" content="{{ page.description | strip_newlines }}">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | strip_newlines }}">
+  {% endif %}
 {% endif %}
 
 <link rel="stylesheet" href="/assets/main.css">
