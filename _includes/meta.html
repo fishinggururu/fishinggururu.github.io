@@ -6,7 +6,13 @@
   <title>{{ site.title | strip_html }}</title>
   <meta name="description" content="{{ site.description | strip_newlines }}">
 {% else %}
-  <title>{{ page.title }}</title>
+  {% if page.type == 'category' %}
+    <title>{{ page.title | replace:'_',' ' }}</title>
+  {% elsif page.type == 'tag' %}
+    <title>Записи с тэгом «{{ page.title | replace:'_',' ' }}»</title>
+  {% else %}
+    <title>{{ page.title }}</title>
+  {% endif %}
   {% if page.description %}
     <meta name="description" content="{{ page.description | strip_newlines }}">
   {% endif %}

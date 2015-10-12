@@ -17,7 +17,7 @@
   margin-bottom: 0;
   float: left;
 
-  &, a, a:visited {
+  &, a {
     color: $grey-color-dark;
   }
 
@@ -186,7 +186,10 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+
+  &, a {
+    color: lighten($grey-color, 10%);
+  }
 
   .post-category, .post-date {
     margin-right: $spacing-unit / 2;

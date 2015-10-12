@@ -8,7 +8,7 @@ layout: default
 {% elsif page.type == 'tag' %}
   {% assign tag = page.title | replace:'_',' ' %}
   {% assign posts = site.tags[tag] %}
-  <h1 class="page-heading icon-tag">{{ tag }}</h1>
+  <h1 class="page-heading icon-tag">Записи с тэгом «{{ tag }}»</h1>
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
@@ -22,9 +22,8 @@ layout: default
 
       <span class="post-meta">
         {% include date.html date=post.date %}
-        {% unless page.type == 'category' %}
-          {% include category.html category=post.category %}
-        {% endunless %}
+        {% include category.html category=post.category %}
+        {% include tags.html tags=post.tags %}
       </span>
     </li>
   {% endfor %}
