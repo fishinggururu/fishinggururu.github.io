@@ -9,6 +9,8 @@ description: Блог о рыбалке и отдыхе на реке
 youtube: https://www.youtube.com/channel/UCQwcITuV0kUJm24WV9tcl-g
 vk: https://vk.com/fishingguru
 
+hypercomments_widget_id: 65157
+
 # Build settings
 permalink: /:categories/:title/
 

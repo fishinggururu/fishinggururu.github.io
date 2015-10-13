@@ -1,3 +1,5 @@
+require 'digest/sha1'
+
 module Jekyll
   class Post
     alias_method :old_url_placeholders, :url_placeholders
@@ -9,7 +11,7 @@ module Jekyll
     alias_method :old_id, :id
 
     def id
-      CGI::unescape(url).sub(/\A\//, '').sub(/\/\z/, '')
+      Digest::SHA1.hexdigest(CGI::unescape(url).sub(/\A\//, '').sub(/\/\z/, ''))
     end
   end
 end
