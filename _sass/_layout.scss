@@ -147,13 +147,16 @@
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width: calc(100% - (#{$spacing-unit} / 2));
+  }
+}
 
+@media screen and (min-width: $on-laptop + 1) {
+  .footer-col-3 {
     .text {
       text-align: right;
     }
   }
 }
-
 
 @include media-query($on-palm) {
   .footer-col {
