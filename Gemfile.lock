@@ -72,7 +72,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-redirect-from
   jekyll-sitemap
-  pygments.rb
   redcarpet
 
 BUNDLED WITH

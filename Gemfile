@@ -7,4 +7,3 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 
 gem 'redcarpet'
-gem 'pygments.rb'
