@@ -33,6 +33,5 @@ sass:
 
 gems:
   - jekyll-archives
-  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
