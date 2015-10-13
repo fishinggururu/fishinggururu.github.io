@@ -195,7 +195,7 @@
   font-size: $small-font-size;
 
   &, a {
-    color: lighten($grey-color, 10%);
+    color: $grey-color;
   }
 
   .post-category, .post-date {
