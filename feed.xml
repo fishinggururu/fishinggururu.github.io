@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
-<link href="https://fishingguru.ru/feed.xml" rel="self" type="application/atom+xml" />
-<link href="https://fishingguru.ru/" rel="alternate" type="text/html" />
-<updated>2015-10-13T02:29:32+05:00</updated>
-<id>https://fishingguru.ru/</id>
-<subtitle>Блог о рыбалке и отдыхе на реке</subtitle>
-<author>
-<name>Сергей Сажин</name>
-</author>
-<entry>
-<title>Миф о том, что в плохую погоду рыба не клюет</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9C%D0%B8%D1%84_%D0%BE_%D1%82%D0%BE%D0%BC,_%D1%87%D1%82%D0%BE_%D0%B2_%D0%BF%D0%BB%D0%BE%D1%85%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83_%D1%80%D1%8B%D0%B1%D0%B0_%D0%BD%D0%B5_%D0%BA%D0%BB%D1%8E%D0%B5%D1%82/" rel="alternate" type="text/html" title="Миф о том, что в плохую погоду рыба не клюет" />
-<published>2015-08-07T23:16:52+05:00</published>
-<updated>2015-08-07T23:16:52+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Миф_о_том,_что_в_плохую_погоду_рыба_не_клюет</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9C%D0%B8%D1%84_%D0%BE_%D1%82%D0%BE%D0%BC,_%D1%87%D1%82%D0%BE_%D0%B2_%D0%BF%D0%BB%D0%BE%D1%85%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83_%D1%80%D1%8B%D0%B1%D0%B0_%D0%BD%D0%B5_%D0%BA%D0%BB%D1%8E%D0%B5%D1%82/">&lt;p&gt;Вчера, 12 июля, началась сильная гроза. Не скажу, что до этого дня
+  <generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
+  <link href="https://fishingguru.ru/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://fishingguru.ru/" rel="alternate" type="text/html" />
+  <updated>2015-10-13T17:34:37+05:00</updated>
+  <id>https://fishingguru.ru/</id>
+  <title>Fishing Guru</title>
+  <subtitle>Блог о рыбалке и отдыхе на реке</subtitle>
+  <author>
+    <name>Сергей Сажин</name>
+    <email>admin@fishingguru.ru</email>
+  </author>
+  
+    <entry>
+      <title>Миф о том, что в плохую погоду рыба не клюет</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9C%D0%B8%D1%84_%D0%BE_%D1%82%D0%BE%D0%BC,_%D1%87%D1%82%D0%BE_%D0%B2_%D0%BF%D0%BB%D0%BE%D1%85%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83_%D1%80%D1%8B%D0%B1%D0%B0_%D0%BD%D0%B5_%D0%BA%D0%BB%D1%8E%D0%B5%D1%82/" rel="alternate" type="text/html" title="Миф о том, что в плохую погоду рыба не клюет" />
+      <published>2015-08-07T23:16:52+05:00</published>
+      
+        <updated>2015-08-07T23:16:52+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9C%D0%B8%D1%84_%D0%BE_%D1%82%D0%BE%D0%BC,_%D1%87%D1%82%D0%BE_%D0%B2_%D0%BF%D0%BB%D0%BE%D1%85%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83_%D1%80%D1%8B%D0%B1%D0%B0_%D0%BD%D0%B5_%D0%BA%D0%BB%D1%8E%D0%B5%D1%82/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9C%D0%B8%D1%84_%D0%BE_%D1%82%D0%BE%D0%BC,_%D1%87%D1%82%D0%BE_%D0%B2_%D0%BF%D0%BB%D0%BE%D1%85%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83_%D1%80%D1%8B%D0%B1%D0%B0_%D0%BD%D0%B5_%D0%BA%D0%BB%D1%8E%D0%B5%D1%82/">&lt;p&gt;Вчера, 12 июля, началась сильная гроза. Не скажу, что до этого дня
 дождей не было. Каждый день дождь, да и не по одному разу. Гроза длилась
 больше двух часов. За это время с неба вылилось немалое количество воды.
 Только гроза кончилась, выглянуло солнце, и мы обрадовались, небо опять
@@ -47,18 +52,20 @@
 Хотя, конечно, наслаждаться ходьбой по лужам сложно, да еще и одежда
 мокнет от сырой травы, а в остальном все замечательно.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="щука" />
-<category term="блесна" />
-<summary>Вчера, 12 июля, началась сильная гроза. Не скажу, что до этого днядождей не было. Каждый день дождь, да и не по одному разу. Гроза длиласьбольше двух часов. За это время с неба вылилось немалое количество воды.Только гроза кончилась, выглянуло солнце, и мы обрадовались, небо опятьпотемнело, и началась вторая гроза. Некоторые разряды были такиесильные, и грохот обрушивался буквально сразу после вспышки молнии.</summary>
-</entry>
-<entry>
-<title>В поисках Куштугая</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%92_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85_%D0%9A%D1%83%D1%88%D1%82%D1%83%D0%B3%D0%B0%D1%8F/" rel="alternate" type="text/html" title="В поисках Куштугая" />
-<published>2015-08-06T22:01:11+05:00</published>
-<updated>2015-08-06T22:01:11+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/В_поисках_Куштугая</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%92_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85_%D0%9A%D1%83%D1%88%D1%82%D1%83%D0%B3%D0%B0%D1%8F/">&lt;p&gt;На карте Башкирии, неподалеку от нас, рядом с рекой Тюй обнаружил
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>В поисках Куштугая</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%92_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85_%D0%9A%D1%83%D1%88%D1%82%D1%83%D0%B3%D0%B0%D1%8F/" rel="alternate" type="text/html" title="В поисках Куштугая" />
+      <published>2015-08-06T22:01:11+05:00</published>
+      
+        <updated>2015-08-06T22:01:11+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%92_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85_%D0%9A%D1%83%D1%88%D1%82%D1%83%D0%B3%D0%B0%D1%8F/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%92_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0%D1%85_%D0%9A%D1%83%D1%88%D1%82%D1%83%D0%B3%D0%B0%D1%8F/">&lt;p&gt;На карте Башкирии, неподалеку от нас, рядом с рекой Тюй обнаружил
 большое озеро, и находится оно рядом с рекой. Всю зиму я буквально болел
 поездкой к этому озеру. Поскольку окрестности заросли непроходимым
 лесом, то единственный путь был по реке.&lt;/p&gt;
@@ -119,17 +126,20 @@
 
 &lt;p&gt;— Жди меня, Куштугай!&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="река Тюй" />
-<summary>На карте Башкирии, неподалеку от нас, рядом с рекой Тюй обнаружилбольшое озеро, и находится оно рядом с рекой. Всю зиму я буквально болелпоездкой к этому озеру. Поскольку окрестности заросли непроходимымлесом, то единственный путь был по реке.</summary>
-</entry>
-<entry>
-<title>Дом отдыха Иренские зори</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%94%D0%BE%D0%BC_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%98%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%BE%D1%80%D0%B8/" rel="alternate" type="text/html" title="Дом отдыха Иренские зори" />
-<published>2015-08-06T01:21:09+05:00</published>
-<updated>2015-08-06T01:21:09+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Дом_отдыха_Иренские_зори</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%94%D0%BE%D0%BC_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%98%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%BE%D1%80%D0%B8/">&lt;p&gt;Наш путь лежит в гости к хозяевам базы отдыха &lt;a href=&quot;https://maps.yandex.ru/?ll=56.909593%2C56.598995&amp;amp;z=11&amp;amp;rl=57.21103068%2C56.51196777%7E-0.05355835%2C0.03718666%7E-0.01373291%2C0.01933774%7E-0.06935120%2C0.01515992%7E-0.05973816%2C0.02878703%7E-0.03913879%2C0.01135724%7E-0.00480652%2C0.02951277%7E-0.02952576%2C0.02911167%7E-0.00480652%2C-0.00755930%7E-0.00686646%2C-0.01209805%7E-0.02609253%2C-0.01323671%7E-0.04257202%2C0.00416061%7E-0.03570557%2C0.00869797%7E-0.01373291%2C-0.00075627&quot;&gt;«Ирень таннары»&lt;/a&gt;, что
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Дом отдыха Иренские зори</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%94%D0%BE%D0%BC_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%98%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%BE%D1%80%D0%B8/" rel="alternate" type="text/html" title="Дом отдыха Иренские зори" />
+      <published>2015-08-06T01:21:09+05:00</published>
+      
+        <updated>2015-08-06T01:21:09+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%94%D0%BE%D0%BC_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%98%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%BE%D1%80%D0%B8/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%94%D0%BE%D0%BC_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%98%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%BE%D1%80%D0%B8/">&lt;p&gt;Наш путь лежит в гости к хозяевам базы отдыха &lt;a href=&quot;https://maps.yandex.ru/?ll=56.909593%2C56.598995&amp;amp;z=11&amp;amp;rl=57.21103068%2C56.51196777%7E-0.05355835%2C0.03718666%7E-0.01373291%2C0.01933774%7E-0.06935120%2C0.01515992%7E-0.05973816%2C0.02878703%7E-0.03913879%2C0.01135724%7E-0.00480652%2C0.02951277%7E-0.02952576%2C0.02911167%7E-0.00480652%2C-0.00755930%7E-0.00686646%2C-0.01209805%7E-0.02609253%2C-0.01323671%7E-0.04257202%2C0.00416061%7E-0.03570557%2C0.00869797%7E-0.01373291%2C-0.00075627&quot;&gt;«Ирень таннары»&lt;/a&gt;, что
 в переводе с башкирского означает «Иренские зори». Место находится в
 Октябрьском районе Пермского края, село Ишимово. Найти его легко по карте,
 ссылка на которую дана выше. Выехали рано утром, проезжаем деревню с
@@ -197,18 +207,20 @@
 
 &lt;p&gt;Убеждаюсь в который раз, что хороший отдых возможен и в нашей стране.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="река Ирень" />
-<category term="хариус" />
-<summary>Наш путь лежит в гости к хозяевам базы отдыха «Ирень таннары», чтов переводе с башкирского означает «Иренские зори». Место находится вОктябрьском районе Пермского края, село Ишимово. Найти его легко по карте,ссылка на которую дана выше. Выехали рано утром, проезжаем деревню сэкзотическим названием Алмаз. Однако, наш Алмаз практически утопает вгрязи и зарос борщевиком по самые крыши.</summary>
-</entry>
-<entry>
-<title>По реке Сарс от Адилево до Русского Сарса</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D0%BE_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A1%D0%B0%D1%80%D1%81_%D0%BE%D1%82_%D0%90%D0%B4%D0%B8%D0%BB%D0%B5%D0%B2%D0%BE_%D0%B4%D0%BE_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%80%D1%81%D0%B0/" rel="alternate" type="text/html" title="По реке Сарс от Адилево до Русского Сарса" />
-<published>2015-08-05T16:42:53+05:00</published>
-<updated>2015-08-05T16:42:53+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/По_реке_Сарс_от_Адилево_до_Русского_Сарса</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D0%BE_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A1%D0%B0%D1%80%D1%81_%D0%BE%D1%82_%D0%90%D0%B4%D0%B8%D0%BB%D0%B5%D0%B2%D0%BE_%D0%B4%D0%BE_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%80%D1%81%D0%B0/">&lt;p&gt;Приехал к нам в гости &lt;a href=&quot;http://sazhin64.livejournal.com/142430.html&quot;&gt;друг-художник&lt;/a&gt;.&lt;/p&gt;
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>По реке Сарс от Адилево до Русского Сарса</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D0%BE_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A1%D0%B0%D1%80%D1%81_%D0%BE%D1%82_%D0%90%D0%B4%D0%B8%D0%BB%D0%B5%D0%B2%D0%BE_%D0%B4%D0%BE_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%80%D1%81%D0%B0/" rel="alternate" type="text/html" title="По реке Сарс от Адилево до Русского Сарса" />
+      <published>2015-08-05T16:42:53+05:00</published>
+      
+        <updated>2015-08-05T16:42:53+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D0%BE_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A1%D0%B0%D1%80%D1%81_%D0%BE%D1%82_%D0%90%D0%B4%D0%B8%D0%BB%D0%B5%D0%B2%D0%BE_%D0%B4%D0%BE_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%80%D1%81%D0%B0/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D0%BE_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A1%D0%B0%D1%80%D1%81_%D0%BE%D1%82_%D0%90%D0%B4%D0%B8%D0%BB%D0%B5%D0%B2%D0%BE_%D0%B4%D0%BE_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%80%D1%81%D0%B0/">&lt;p&gt;Приехал к нам в гости &lt;a href=&quot;http://sazhin64.livejournal.com/142430.html&quot;&gt;друг-художник&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://img-fotki.yandex.ru/get/3504/13906080.54/0_a2351_41041f06_XXL.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
@@ -306,19 +318,20 @@
 &lt;p&gt;Полный впечатлениями день остался светлым пятном в нашей памяти. На
 следующее утро я проснулся позже обычного. Усталость дала о себе знать.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="лодка" />
-<category term="река Сарс" />
-<category term="хариус" />
-<summary>Приехал к нам в гости друг-художник.</summary>
-</entry>
-<entry>
-<title>Прогулка по Исетскому озеру</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D1%83/" rel="alternate" type="text/html" title="Прогулка по Исетскому озеру" />
-<published>2015-06-28T07:17:51+05:00</published>
-<updated>2015-06-28T07:17:51+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Прогулка_по_Исетскому_озеру</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D1%83/">&lt;p&gt;Пуститься в плавание по Исетскому озеру меня надоумил коллега. Он
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Прогулка по Исетскому озеру</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D1%83/" rel="alternate" type="text/html" title="Прогулка по Исетскому озеру" />
+      <published>2015-06-28T07:17:51+05:00</published>
+      
+        <updated>2015-06-28T07:17:51+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D1%83/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%BE%D0%B7%D0%B5%D1%80%D1%83/">&lt;p&gt;Пуститься в плавание по Исетскому озеру меня надоумил коллега. Он
 рассказал, что на озере есть полуостров, на котором есть скала, на
 которой изображены наскальные рисунки времен бронзового века. И вот я
 отправился в путь. Проплыв в общей сложности около 10 км, я не нашел
@@ -335,17 +348,20 @@
   &lt;iframe src=&quot;https://www.youtube.com/embed/iCJQWQHRPss&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="Исетское озеро" />
-<summary>Пуститься в плавание по Исетскому озеру меня надоумил коллега. Онрассказал, что на озере есть полуостров, на котором есть скала, накоторой изображены наскальные рисунки времен бронзового века. И вот яотправился в путь. Проплыв в общей сложности около 10 км, я не нашелзаветный камень, но увидел много красивых мест.</summary>
-</entry>
-<entry>
-<title>Прогулка по Аяти</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%90%D1%8F%D1%82%D0%B8/" rel="alternate" type="text/html" title="Прогулка по Аяти" />
-<published>2015-06-28T07:10:21+05:00</published>
-<updated>2015-06-28T07:10:21+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Прогулка_по_Аяти</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%90%D1%8F%D1%82%D0%B8/">&lt;p&gt;С другом Александром мы двинулись по реке Аять на двух лодках вниз по
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Прогулка по Аяти</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%90%D1%8F%D1%82%D0%B8/" rel="alternate" type="text/html" title="Прогулка по Аяти" />
+      <published>2015-06-28T07:10:21+05:00</published>
+      
+        <updated>2015-06-28T07:10:21+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%90%D1%8F%D1%82%D0%B8/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%90%D1%8F%D1%82%D0%B8/">&lt;p&gt;С другом Александром мы двинулись по реке Аять на двух лодках вниз по
 течению. Вода еще мутная и ее довольно много. Вода торфяная, но
 прозрачность есть, и на блесну клюют щучки и окуни.&lt;/p&gt;
 
@@ -393,20 +409,20 @@
   &lt;iframe src=&quot;https://www.youtube.com/embed/42IrsA-YtOc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="видео" />
-<category term="лодка" />
-<category term="река Аять" />
-<category term="щука" />
-<summary>С другом Александром мы двинулись по реке Аять на двух лодках вниз потечению. Вода еще мутная и ее довольно много. Вода торфяная, нопрозрачность есть, и на блесну клюют щучки и окуни.</summary>
-</entry>
-<entry>
-<title>Энергетика старых удочек</title>
-<link href="https://fishingguru.ru/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA/" rel="alternate" type="text/html" title="Энергетика старых удочек" />
-<published>2015-03-19T02:09:07+05:00</published>
-<updated>2015-03-19T02:09:07+05:00</updated>
-<id>https://fishingguru.ruЗаписки_любителя/Энергетика_старых_удочек</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA/">&lt;p&gt;Как-то посмотрел по телевизору фильм о Японии. Меня поразило, с какой
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Энергетика старых удочек</title>
+      <link href="https://fishingguru.ru/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA/" rel="alternate" type="text/html" title="Энергетика старых удочек" />
+      <published>2015-03-19T02:09:07+05:00</published>
+      
+        <updated>2015-03-19T02:09:07+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA/">&lt;p&gt;Как-то посмотрел по телевизору фильм о Японии. Меня поразило, с какой
 любовью люди хранят старые вещи, доставшиеся от предков. У одного
 мужчины хранится удочка деда, причем, уже более 100 лет. Для нее сделан
 специальный футляр, чтобы не повредилась от времени.&lt;/p&gt;
@@ -432,18 +448,20 @@
 
 &lt;p&gt;Вот и остались только на паре фотографий.&lt;/p&gt;
 </content>
-<category term="Записки любителя" />
-<category term="удилище" />
-<category term="поплавочная удочка" />
-<summary>Как-то посмотрел по телевизору фильм о Японии. Меня поразило, с какойлюбовью люди хранят старые вещи, доставшиеся от предков. У одногомужчины хранится удочка деда, причем, уже более 100 лет. Для нее сделанспециальный футляр, чтобы не повредилась от времени.</summary>
-</entry>
-<entry>
-<title>Охота на речную живность</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" rel="alternate" type="text/html" title="Охота на речную живность" />
-<published>2015-03-09T04:37:21+05:00</published>
-<updated>2015-03-09T04:37:21+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Охота_на_речную_живность</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/">&lt;p&gt;моя охота только отчасти напоминает охоту. Это добывание фотографий
+      
+        <category term="Записки любителя" />
+      
+    </entry>
+  
+    <entry>
+      <title>Охота на речную живность</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" rel="alternate" type="text/html" title="Охота на речную живность" />
+      <published>2015-03-09T04:37:21+05:00</published>
+      
+        <updated>2015-03-09T04:37:21+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9E%D1%85%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D1%87%D0%BD%D1%83%D1%8E_%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/">&lt;p&gt;моя охота только отчасти напоминает охоту. Это добывание фотографий
 животных. Только такая охота меня и привлекает.&lt;/p&gt;
 
 &lt;p&gt;Этим летом были удачные дни, когда удалось подойти очень близко к
@@ -468,16 +486,20 @@
 &lt;p&gt;Да и другой живности много. Только осторожными стали животные. В наших
 краях достаточно реальных охотников, не только за фотографиями.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<summary>моя охота только отчасти напоминает охоту. Это добывание фотографийживотных. Только такая охота меня и привлекает.</summary>
-</entry>
-<entry>
-<title>Хорошая погода для любителей подледного лова</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B2%D0%B0/" rel="alternate" type="text/html" title="Хорошая погода для любителей подледного лова" />
-<published>2015-03-09T04:06:21+05:00</published>
-<updated>2015-03-09T04:06:21+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Хорошая_погода_для_любителей_подледного_лова</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B2%D0%B0/">&lt;p&gt;Последний месяц по видимому был удачным для любителей подледного лова.
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Хорошая погода для любителей подледного лова</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B2%D0%B0/" rel="alternate" type="text/html" title="Хорошая погода для любителей подледного лова" />
+      <published>2015-03-09T04:06:21+05:00</published>
+      
+        <updated>2015-03-09T04:06:21+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B2%D0%B0/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%BE%D0%B2%D0%B0/">&lt;p&gt;Последний месяц по видимому был удачным для любителей подледного лова.
 Автобусы в сторону Среднеуральска заполнены рыбаками и их пожитками.
 Причиной стала теплая погода, которая выходит за рамки климатической
 нормы. По словам одного из рыболовов, дневной улов составил около 8
@@ -489,18 +511,20 @@
 
 &lt;p&gt;Вот так побаловала природа любителей рыбалки.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="Исетское озеро" />
-<category term="канал СУГРЭС" />
-<summary>Последний месяц по видимому был удачным для любителей подледного лова.Автобусы в сторону Среднеуральска заполнены рыбаками и их пожитками.Причиной стала теплая погода, которая выходит за рамки климатическойнормы. По словам одного из рыболовов, дневной улов составил около 8килограммов. Все рыбаки ехали на Исетское озеро, находящееся рядом сСУГРЭС.</summary>
-</entry>
-<entry>
-<title>Любителям грибов, ягод, рыбалки</title>
-<link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D1%8F%D0%B3%D0%BE%D0%B4,_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8/" rel="alternate" type="text/html" title="Любителям грибов, ягод, рыбалки" />
-<published>2015-03-01T00:05:29+05:00</published>
-<updated>2015-03-01T00:05:29+05:00</updated>
-<id>https://fishingguru.ruРыбалка_для_всех/Любителям_грибов,_ягод,_рыбалки</id>
-<content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D1%8F%D0%B3%D0%BE%D0%B4,_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8/">&lt;p&gt;Для всех, кто любит гулять по лесу, ходить в походы, ездить на рыбалку,
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
+    <entry>
+      <title>Любителям грибов, ягод, рыбалки</title>
+      <link href="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D1%8F%D0%B3%D0%BE%D0%B4,_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8/" rel="alternate" type="text/html" title="Любителям грибов, ягод, рыбалки" />
+      <published>2015-03-01T00:05:29+05:00</published>
+      
+        <updated>2015-03-01T00:05:29+05:00</updated>
+      
+      <id>https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D1%8F%D0%B3%D0%BE%D0%B4,_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8/</id>
+      <content type="html" xml:base="https://fishingguru.ru/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D1%8F%D0%B3%D0%BE%D0%B4,_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8/">&lt;p&gt;Для всех, кто любит гулять по лесу, ходить в походы, ездить на рыбалку,
 хочется порекомендовать замечательные топографические карты.&lt;/p&gt;
 
 &lt;p&gt;Нашел замечательный сайт, где можно найти отличные 200-метровки.
@@ -529,9 +553,9 @@
 
 &lt;p&gt;Это меню достаточно богатое, здесь можно найти карты на разный вкус.&lt;/p&gt;
 </content>
-<category term="Рыбалка для всех" />
-<category term="грибы" />
-<category term="ягоды" />
-<summary>Для всех, кто любит гулять по лесу, ходить в походы, ездить на рыбалку,хочется порекомендовать замечательные топографические карты.</summary>
-</entry>
+      
+        <category term="Рыбалка для всех" />
+      
+    </entry>
+  
 </feed>
