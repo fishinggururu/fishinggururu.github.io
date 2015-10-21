@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{% assign tag = page.title | replace:'_',' ' %}
+{% assign heading = tag | prepend: 'Записи с тэгом «' | append: '»' %}
+{% assign posts = site.tags[tag] %}
+{% include post_list.html heading=heading posts=posts hide_category=false %}

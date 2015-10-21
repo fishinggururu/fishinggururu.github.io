@@ -1,28 +1,8 @@
 ---
 layout: default
 ---
-{% if page.type == 'category' %}
-  {% assign category = page.title | replace:'_',' ' %}
+{% for posts_by_category in site.categories %}
+  {% assign category = posts_by_category | first %}
   {% assign posts = site.categories[category] %}
-  <h1>{{ category }}</h1>
-{% elsif page.type == 'tag' %}
-  {% assign tag = page.title | replace:'_',' ' %}
-  {% assign posts = site.tags[tag] %}
-  <h1>Записи с тэгом «{{ tag }}»</h1>
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-<ul class="post-list">
-  {% for post in posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-
-      <span class="post-meta">
-        {% include date.html date=post.date %}
-        {% include category.html category=post.category %}
-        {% include tags.html tags=post.tags %}
-      </span>
-    </li>
-  {% endfor %}
-</ul>
+  {% include post_list.html heading=category posts=posts hide_category=true %}
+{% endfor %}

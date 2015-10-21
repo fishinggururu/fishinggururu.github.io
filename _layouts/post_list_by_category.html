@@ -1,0 +1,6 @@
+---
+layout: default
+---
+{% assign category = page.title | replace:'_',' ' %}
+{% assign posts = site.categories[category] %}
+{% include post_list.html heading=category posts=posts hide_category=true %}
