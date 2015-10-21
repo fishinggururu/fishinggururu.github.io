@@ -22,12 +22,4 @@
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | strip_html }}" href="{{ "/feed.xml" | prepend: site.url }}">
 
-{% if page.next.url %}
-  <link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.next.title }}">
-{% endif %}
-
-{% if page.previous.url %}
-  <link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.previous.title }}">
-{% endif %}
-
 {% include metrika.html %}
