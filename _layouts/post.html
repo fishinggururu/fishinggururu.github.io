@@ -14,4 +14,30 @@ layout: default
   {{ content }}
 </article>
 
+{% if site.categories[page.category].size > 1 %}
+  <h2>Другие записи в категории «<a href="/{{ page.category | slugify | uri_escape }}/">{{ page.category }}</a>»</h2>
+
+  <ul class="post-list related-post-list">
+    {% for post in site.categories[page.category] %}
+      {% if post.url == page.url %}
+        {% assign related_posts_offset = forloop.index0 | minus: 2 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% if related_posts_offset < 0 %}
+      {% assign related_posts_offset = 0 %}
+    {% endif %}
+
+    {% for post in site.categories[page.category] limit:5 offset:related_posts_offset %}
+      {% unless post.url == page.url %}
+        <li>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <span class="post-meta">{% include date.html date=post.date %}</span>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {% include comments.html id=page.id %}

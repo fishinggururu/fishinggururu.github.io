@@ -194,6 +194,24 @@
   }
 }
 
+.related-post-list {
+  > li {
+    margin-bottom: 0;
+
+    h3, .post-meta {
+      display: inline-block;
+    }
+
+    h3 {
+      margin-right: $spacing-unit / 2;
+    }
+
+    .post-date {
+      margin-right: 0;
+    }
+  }
+}
+
 /**
  * Posts
  */
