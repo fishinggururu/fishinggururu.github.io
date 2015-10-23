@@ -38,7 +38,7 @@ redirect_from: /blog/Ribalka_dlia_vseh/92.html
 
 Вот — основные наши секреты (мои и мамы). Готовьте на здоровье!
 
-![](http://img-fotki.yandex.ru/get/6309/13906080.1b/0_76b3a_e02fbdb9_L.jpg)
+![](/uploads/6309/13906080.1b/0_76b3a_e02fbdb9_L.jpg)
 
 **Отварная рыба**
 
