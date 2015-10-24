@@ -1,3 +1,8 @@
 ---
-layout: post_list
+layout: default
 ---
+{% for posts_by_category in site.categories %}
+  {% assign category = posts_by_category | first %}
+  {% assign posts = site.categories[category] %}
+  {% include post_list.html heading=category posts=posts hide_category=true %}
+{% endfor %}
