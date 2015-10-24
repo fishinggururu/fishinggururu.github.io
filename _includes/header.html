@@ -20,7 +20,7 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}{% if page.title %}
+        {% for page in site.pages %}{% if page.title and page.url != '/404.html' %}
           <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
         {% endif %}{% endfor %}
       </div>

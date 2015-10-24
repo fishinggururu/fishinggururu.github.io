@@ -1,0 +1,24 @@
+---
+layout: page
+title: Страница не найдена
+permalink: /404.html
+sitemap: false
+---
+<p>
+  Страница, к которой вы обратились, не существует. Но есть другие,
+  которые, возможно, будут вам интересны:
+</p>
+
+<ul class="post-list">
+  {% for post in site.posts limit: 10 %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+      <span class="post-meta">
+        {% include date.html date=post.date %}
+        {% include category.html category=post.category %}
+        {% include tags.html tags=post.tags %}
+      </span>
+    </li>
+  {% endfor %}
+</ul>
