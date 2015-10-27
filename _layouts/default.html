@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-{% include meta.html %}
+<html lang="ru" itemscope itemtype="http://schema.org/Blog">
+  <head>
+    {% include meta.html %}
+  </head>
+  </body>
+    {% include header.html %}
 
-{% include header.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-<div class="page-content">
-  <div class="wrapper">
-    {{ content }}
-  </div>
-</div>
-
-{% include footer.html %}
+    {% include footer.html %}
+  </body>
+</html>
