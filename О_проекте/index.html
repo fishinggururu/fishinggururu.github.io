@@ -82,7 +82,7 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div itemprop="blogPost" itemscope itemtype="http://schema.org/Article">
+        <div itemscope itemtype="http://schema.org/Article">
   <header class="post-header">
     <h1 itemprop="headline">О проекте</h1>
   </header>
@@ -126,6 +126,28 @@
 
   </article>
 </div>
+
+<div id="hypercomments_widget"></div>
+<script>
+_hcwp = window._hcwp || [];
+_hcwp.push({
+  widget: 'Stream',
+  widget_id: 65157,
+  xid: '',
+  hc_disable: 1,
+  quote_disable: 1
+});
+(function() {
+  if ('HC_LOAD_INIT' in window) return;
+  HC_LOAD_INIT = true;
+  var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || 'en').substr(0, 2).toLowerCase();
+  var hcc = document.createElement('script'); hcc.async = true;
+  hcc.src = 'https://w.hypercomments.com/widget/hc/65157/' + lang + '/widget.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+
 
       </div>
     </div>
