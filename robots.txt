@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /blog/*/bad/
+Disallow: /blog/*/page*/
+Disallow: /blog/good/
+Disallow: /blog/travel/
+Disallow: /login/
+Disallow: /my/
+Disallow: /people/
+Disallow: /profile/
+Disallow: /registration/
+Disallow: /tag/*/page*/
+Disallow: /top/
