@@ -4,5 +4,6 @@ layout: default
 {% for posts_by_category in site.categories %}
   {% assign category = posts_by_category | first %}
   {% assign posts = site.categories[category] %}
-  {% include post_list.html heading=category posts=posts hide_category=true %}
+  {% capture heading %}<a href="/{{ category | slugify | uri_escape }}/">{{ category }}</a>{% endcapture %}
+  {% include post_list.html heading=heading posts=posts hide_category=true %}
 {% endfor %}
