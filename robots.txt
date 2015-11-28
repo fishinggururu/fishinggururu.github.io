@@ -6,6 +6,7 @@ Disallow: /blog/travel/
 Disallow: /login/
 Disallow: /my/
 Disallow: /people/
+Disallow: /personal_blog/
 Disallow: /profile/
 Disallow: /registration/
 Disallow: /rss/
