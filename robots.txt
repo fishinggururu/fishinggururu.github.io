@@ -8,5 +8,7 @@ Disallow: /my/
 Disallow: /people/
 Disallow: /profile/
 Disallow: /registration/
+Disallow: /rss/
 Disallow: /tag/*/page*/
+Disallow: /templates/
 Disallow: /top/
