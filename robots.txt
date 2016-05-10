@@ -13,3 +13,4 @@ Disallow: /rss/
 Disallow: /tag/*/page*/
 Disallow: /templates/
 Disallow: /top/
+Host: https://fishingguru.ru
