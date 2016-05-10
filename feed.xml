@@ -12,7 +12,6 @@ layout: null
   <subtitle>{{ site.description | xml_escape }}</subtitle>
   <author>
     <name>{{ site.author | xml_escape }}</name>
-    <email>{{ site.email | xml_escape }}</email>
   </author>
   {% for post in site.posts limit: 10 %}
     <entry>
